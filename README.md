@@ -187,7 +187,7 @@ This project demonstrates best practices for building a full-stack MERN applicat
 - JWT authentication with protected routes
 - Consistent error handling with toast notifications
 - Responsive UI with Tailwind CSS
-- 
+  
 ## Sources
 
 Uses code from @TraversyMedia Youtube to learn about MERN.
