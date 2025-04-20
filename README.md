@@ -186,4 +186,8 @@ This project demonstrates best practices for building a full-stack MERN applicat
 - React Query for efficient data management
 - JWT authentication with protected routes
 - Consistent error handling with toast notifications
-- Responsive UI with Tailwind CSS 
+- Responsive UI with Tailwind CSS
+- 
+## Sources
+
+Uses code from @TraversyMedia Youtube to learn about MERN.
